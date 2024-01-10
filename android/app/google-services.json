@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "962904260310",
+    "firebase_url": "https://masivianpush.firebaseio.com",
+    "project_id": "masivianpush",
+    "storage_bucket": "masivianpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962904260310:android:498f7aee8224fe4993d377",
+        "android_client_info": {
+          "package_name": "Masiv.push.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962904260310-9dllt6a8i8essmmqhk55vkhqts0pi9e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3zb8uSjehjUHI0O_GrEk72FWHCtPtmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117208541174380681077",
+              "client_type": 3
+            },
+            {
+              "client_id": "962904260310-cu9gt1su4s576v8s94b01p0s24cldsvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masivian.AppleClientMasivianFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962904260310:android:2e1db5b74ad4ac7493d377",
+        "android_client_info": {
+          "package_name": "com.masivian.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962904260310-9dllt6a8i8essmmqhk55vkhqts0pi9e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3zb8uSjehjUHI0O_GrEk72FWHCtPtmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117208541174380681077",
+              "client_type": 3
+            },
+            {
+              "client_id": "962904260310-cu9gt1su4s576v8s94b01p0s24cldsvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masivian.AppleClientMasivianFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962904260310:android:b3bf68b954bd84ad93d377",
+        "android_client_info": {
+          "package_name": "com.masivian.pushtest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962904260310-9sfkmj0ncfava4mntmvk119hfbabjajm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masivian.pushtest2",
+            "certificate_hash": "6a7cd696772e8238a371b3817b37cadc4a284ed9"
+          }
+        },
+        {
+          "client_id": "962904260310-c794fpi1v4h38fvlv42agm37ntrnvvq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masivian.pushtest2",
+            "certificate_hash": "97c50d9458f9dbba963f0a348042018a2ba5ae84"
+          }
+        },
+        {
+          "client_id": "962904260310-9dllt6a8i8essmmqhk55vkhqts0pi9e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3zb8uSjehjUHI0O_GrEk72FWHCtPtmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117208541174380681077",
+              "client_type": 3
+            },
+            {
+              "client_id": "962904260310-cu9gt1su4s576v8s94b01p0s24cldsvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masivian.AppleClientMasivianFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962904260310:android:68a15dcb3139669d93d377",
+        "android_client_info": {
+          "package_name": "com.masivian.temptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962904260310-crnv4fabam7ltl7a4g6kg87vt419bg5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masivian.temptest",
+            "certificate_hash": "97c50d9458f9dbba963f0a348042018a2ba5ae84"
+          }
+        },
+        {
+          "client_id": "962904260310-9dllt6a8i8essmmqhk55vkhqts0pi9e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3zb8uSjehjUHI0O_GrEk72FWHCtPtmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117208541174380681077",
+              "client_type": 3
+            },
+            {
+              "client_id": "962904260310-cu9gt1su4s576v8s94b01p0s24cldsvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masivian.AppleClientMasivianFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
